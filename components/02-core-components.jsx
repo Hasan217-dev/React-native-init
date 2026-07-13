@@ -48,3 +48,36 @@ const HomeScrenn = () => {
 export default HomeScrenn
 
 const styles = StyleSheet.create({})
+
+
+
+
+
+
+
+// import { StyleSheet, Text, View , FlatList } from 'react-native'
+// import React from 'react'
+
+// const USERS = [
+//   { "id": 1, "name": "Ali Khan", "role": "admin" },
+//   { "id": 2, "name": "Sara Ahmed", "role": "editor" },
+//   { "id": 3, "name": "Usman Tariq", "role": "user" },
+//   { "id": 4, "name": "Ayesha Malik", "role": "moderator" },
+//   { "id": 5, "name": "Bilal Hussain", "role": "user" }
+// ]
+
+// const HomePage = () => {
+//   return (
+//     <FlatList
+//     data={USERS}
+//     keyExtractor={(item) => item.id}
+//     renderItem={({item}) => (
+//         <Text> {item.role} </Text>
+//     )}
+//      />
+//   )
+// }
+
+// export default HomePage
+
+// const styles = StyleSheet.create({})
